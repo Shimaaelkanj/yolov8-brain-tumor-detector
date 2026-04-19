@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+matplotlib
+streamlit
+Pillow
